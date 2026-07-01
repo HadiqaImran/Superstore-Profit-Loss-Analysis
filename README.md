@@ -10,7 +10,7 @@ This project investigates what is actually driving profit loss in a retail super
 Kaggle Superstore Sales Dataset — 9,994 orders across 4 regions, 3 categories, and 17 sub-categories in the United States.
 
 ## Tools & Technologies
-- Python (Pandas, NumPy, Matplotlib, Scikit-learn)
+- Python (Pandas, Matplotlib, Scikit-learn)
 - Power BI
 - Jupyter Notebook
 
